@@ -34,7 +34,8 @@ The main purpose of this service is to provide real-time monitoring of main APIs
 ![data_monitoring_arch](https://user-images.githubusercontent.com/41864925/109453316-b1af5500-7a8c-11eb-9aaa-95c6ce91f2c1.png)
 
 **The data visualization on the Kibana.**
-![main_service_arch](https://user-images.githubusercontent.com/41864925/109453380-df949980-7a8c-11eb-8400-f73aafb66ba1.png)
+![data_monitoring_result](https://user-images.githubusercontent.com/41864925/109453863-03a4aa80-7a8e-11eb-8eda-7a611dd65e5f.jpg)
+
 
 
 
